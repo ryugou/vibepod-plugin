@@ -1,5 +1,5 @@
 {
-  "name": "vibepod-plugin",
+  "name": "vibepod",
   "description": "Claude Code plugin exposing /vibepod:run, /vibepod:review, /vibepod:status slash commands as thin wrappers over the vibepod CLI",
   "version": "0.1.0",
   "author": {

@@ -9,7 +9,7 @@
   },
   "plugins": [
     {
-      "name": "vibepod-plugin",
+      "name": "vibepod",
       "source": {
         "source": "url",
         "url": "https://github.com/ryugou/vibepod-plugin.git"
