@@ -1,0 +1,22 @@
+{
+  "name": "vibepod-plugin",
+  "owner": {
+    "name": "Toshihiko Ryugo"
+  },
+  "metadata": {
+    "description": "Claude Code plugin exposing /vibepod:run, /vibepod:review, /vibepod:status slash commands for the vibepod CLI",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "vibepod-plugin",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/ryugou/vibepod-plugin.git"
+      },
+      "description": "Thin Claude Code slash-command wrappers over the vibepod CLI (run / review / status)",
+      "version": "0.1.0",
+      "strict": true
+    }
+  ]
+}
